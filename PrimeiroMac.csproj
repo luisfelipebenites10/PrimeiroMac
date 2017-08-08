@@ -68,6 +68,7 @@
   <ItemGroup>
     <None Include="Info.plist" />
     <None Include="packages.config" />
+    <None Include="Sobre.txt" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />

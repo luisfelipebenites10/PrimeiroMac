@@ -1,0 +1,1 @@
+﻿Projeto Funcionou no Xamarin Studio. Ainda não foi testado com o Visual Studio for Mac.

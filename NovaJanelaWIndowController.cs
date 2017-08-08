@@ -19,6 +19,7 @@ namespace PrimeiroMac
 		public override void AwakeFromNib ()
 		{
 			base.AwakeFromNib ();
+			Title = "Teste m";
 		}
 	}
 }
